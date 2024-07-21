@@ -288,18 +288,25 @@ dotnet run
 ## 參考資料：
 [1]AWS CloudFront說明
 https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html
+
 [2]AWS Best Practices for DDoS Resiliency
 https://docs.aws.amazon.com/whitepapers/latest/aws-best-practices-ddos-resiliency/aws-best-practices-ddos-resiliency.html
+
 [3]Athena for CloudFront log
 https://docs.aws.amazon.com/athena/latest/ug/cloudfront-logs.html
+
 [4]SignedURL 設定
 https://ithelp.ithome.com.tw/articles/10328887?sc=rss.iron
+
 [5]CORS
 https://aws.amazon.com/tw/what-is/cross-origin-resource-sharing/
+
 [6] CORS-2
 https://developer.mozilla.org/zh-TW/docs/Web/HTTP/CORS
+
 [7] CORS-3
 https://www.shubo.io/what-is-cors/#google_vignette
+
 [8] CORS-4
 https://www.maxlist.xyz/2020/05/08/flask-cors/
 
